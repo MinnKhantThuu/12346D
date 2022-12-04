@@ -1,10 +1,9 @@
-# app
+# 23456D
 
-A new Flutter project.
+This project contains all about popular gembling such as 2D,3D,4D,Thai lottery or 6D,football (body and moung).
+Using Provider (MVVM Design Pattern).
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
