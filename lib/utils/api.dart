@@ -5,7 +5,7 @@ import 'package:app/utils/api_status.dart';
 import 'package:http/http.dart' as http;
 
 class Api {
-  static const String BASE_URL = 'http://13.214.65.164:3002';
+  static const String BASE_URL = 'http://localhost:3000';
   static Map<String, String> headers = {'content-type': 'application/json'};
   // static const Map<String, String> headers = {
   //       "Content-Type": "application/json",
